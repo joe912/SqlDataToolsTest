@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDataToolsTest", "SqlDataToolsTest\SqlDataToolsTest.csproj", "{94B68498-6F01-4911-BF02-7A32B53C5D20}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1\Database1.sqlproj", "{3BBD2C60-6127-427D-BECB-C92A97741579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F8872B2D-3A16-4599-B425-0E13C68BA2FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,16 @@ Global
 		{94B68498-6F01-4911-BF02-7A32B53C5D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94B68498-6F01-4911-BF02-7A32B53C5D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94B68498-6F01-4911-BF02-7A32B53C5D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBD2C60-6127-427D-BECB-C92A97741579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBD2C60-6127-427D-BECB-C92A97741579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBD2C60-6127-427D-BECB-C92A97741579}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3BBD2C60-6127-427D-BECB-C92A97741579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBD2C60-6127-427D-BECB-C92A97741579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBD2C60-6127-427D-BECB-C92A97741579}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F8872B2D-3A16-4599-B425-0E13C68BA2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8872B2D-3A16-4599-B425-0E13C68BA2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8872B2D-3A16-4599-B425-0E13C68BA2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8872B2D-3A16-4599-B425-0E13C68BA2FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
